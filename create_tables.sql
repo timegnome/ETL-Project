@@ -26,10 +26,10 @@ CREATE TABLE SaleHistory (
 CREATE TABLE Fires (
     FireID int   NOT NULL,
     CountyID int   NOT NULL,
-    YearStarted int NOT NULL,
+	YearStarted int NOT NULL,
+    AcresBurned int   NOT NULL,
     StructuresDamaged int NOT NULL,
     StructuresDestroyed int NOT NULL,
-    AcresBurned int   NOT NULL,
     Extinguished date   NOT NULL,
     Latitude int   NOT NULL,
     Longitude int   NOT NULL,
