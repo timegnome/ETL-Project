@@ -22,3 +22,4 @@
 ### Merge data into 2 data frames on the county ids
 ### we discovered that the fires in the list were not unique if they crossed more that one county.
 ### So we had to update the PostGresSQL with a new table of the Fires
+### Some Fires crossed State Line to neighbors Oregon, Nevada, and Mexico
