@@ -4,7 +4,10 @@
 -- Modify this code to update the DB schema diagram.
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
-
+DROP TABLE IF Exists fires;
+DROP TABLE IF Exists salehistory;
+DROP TABLE IF Exists fire;
+DROP TABLE IF Exists county ;
 CREATE TABLE County (
     CountyID int   NOT NULL,
     countyName varchar   NOT NULL,
@@ -23,8 +26,16 @@ CREATE TABLE SaleHistory (
      )
 );
 
+CREATE TABLE Fire (
+    FireID varchar   NOT NULL,
+    Name varchar   NOT NULL,
+    CONSTRAINT pk_Fire PRIMARY KEY (
+        FireID
+     )
+);
+
 CREATE TABLE Fires (
-    FireID int   NOT NULL,
+    FireID varchar   NOT NULL,
     CountyID int   NOT NULL,
     YearStarted int NOT NULL,
     AcresBurned int   NOT NULL,
@@ -33,10 +44,7 @@ CREATE TABLE Fires (
     Extinguished date   NOT NULL,
     Latitude int   NOT NULL,
     Longitude int   NOT NULL,
-    Started date   NOT NULL,
-    CONSTRAINT pk_Fires PRIMARY KEY (
-        FireID
-     )
+    Started date   NOT NULL
 );
 
 ALTER TABLE SaleHistory ADD CONSTRAINT fk_SaleHistory_CountyID FOREIGN KEY(CountyID)
@@ -45,5 +53,5 @@ REFERENCES County (CountyID);
 ALTER TABLE Fires ADD CONSTRAINT fk_Fires_CountyID FOREIGN KEY(CountyID)
 REFERENCES County (CountyID);
 
-CREATE INDEX idx_County_countyName
-ON County (countyName);
+ALTER TABLE Fires ADD CONSTRAINT fk_Fire_FireID FOREIGN KEY(FireID)
+REFERENCES Fire (FireID);
