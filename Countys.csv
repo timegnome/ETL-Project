@@ -1,4 +1,4 @@
-,index,RegionName
+,index,0
 0,0,Los Angeles
 1,4,San Diego
 2,5,Orange
@@ -57,3 +57,1639 @@
 55,2428,Modoc
 56,2817,Sierra
 57,2851,Alpine
+58,0,Tuolumne
+59,1,Los Angeles
+60,2,Riverside
+61,3,Placer
+62,4,Ventura
+63,5,Fresno
+64,6,Riverside
+65,7,Siskiyou
+66,8,Humboldt
+67,9,Tehama
+68,10,Shasta
+69,11,San Diego
+70,12,Tehama
+71,13,Kern
+72,14,Ventura
+73,15,Sonoma
+74,16,Riverside
+75,17,Contra Costa
+76,18,San Diego
+77,19,Butte
+78,20,San Diego
+79,21,Tulare
+80,22,Santa Barbara
+81,23,Mariposa
+82,24,Riverside
+83,25,San Diego
+84,26,Tuolumne
+85,27,Monterey
+86,28,Kern
+87,29,Kern
+88,30,Los Angeles
+89,31,Kern
+90,32,El Dorado
+91,33,San Bernardino
+92,34,Plumas
+93,35,Riverside
+94,36,Modoc
+95,37,San Luis Obispo
+96,38,Contra Costa
+97,39,Madera
+98,40,San Bernardino
+99,41,Inyo
+100,42,Napa
+101,43,San Benito
+102,44,Riverside
+103,45,Butte
+104,46,San Joaquin
+105,47,Butte
+106,48,Lake
+107,49,Contra Costa
+108,50,Madera
+109,51,Los Angeles
+110,52,San Diego
+111,53,San Bernardino
+112,54,Alameda
+113,55,Placer
+114,56,Glenn
+115,57,Glenn
+116,58,Monterey
+117,59,San Bernardino
+118,60,Tehama
+119,61,Shasta
+120,62,Tehama
+121,63,Napa
+122,64,Santa Barbara
+123,65,Yolo
+124,66,El Dorado
+125,67,Sacramento
+126,68,Sonoma
+127,69,Sonoma
+128,70,Alameda
+129,71,Riverside
+130,72,Stanislaus
+131,73,Fresno
+132,74,Butte
+133,75,Los Angeles
+134,76,Tulare
+135,77,Sonoma
+136,78,Solano
+137,79,Merced
+138,80,Riverside
+139,81,Lake
+140,82,El Dorado
+141,83,San Bernardino
+142,84,Fresno
+143,85,Monterey
+144,86,Los Angeles
+145,87,Tuolumne
+146,88,San Diego
+147,89,Mendocino
+148,90,Modoc
+149,91,San Bernardino
+150,92,Lassen
+151,93,Amador
+152,94,San Luis Obispo
+153,95,Butte
+154,96,Madera
+155,97,Riverside
+156,98,San Luis Obispo
+157,99,Mendocino
+158,100,Butte
+159,101,Fresno
+160,102,Tehama
+161,103,San Bernardino
+162,104,Madera
+163,105,San Bernardino
+164,106,Napa
+165,107,San Bernardino
+166,108,Yuba
+167,109,Butte
+168,110,Lake
+169,111,Modoc
+170,112,Ventura
+171,113,Riverside
+172,114,Riverside
+173,115,Nevada
+174,116,San Luis Obispo
+175,117,Lake
+176,118,Siskiyou
+177,119,Santa Clara
+178,120,Alameda
+179,121,San Luis Obispo
+180,122,Calaveras
+181,123,Fresno
+182,124,Mendocino
+183,125,Ventura
+184,126,Shasta
+185,127,Riverside
+186,128,San Mateo
+187,129,Santa Clara
+188,130,Orange
+189,131,San Diego
+190,132,Riverside
+191,133,Siskiyou
+192,134,Riverside
+193,135,Riverside
+194,136,Riverside
+195,137,El Dorado
+196,138,Lake
+197,139,Alameda
+198,140,Fresno
+199,141,San Luis Obispo
+200,142,Shasta
+201,143,Shasta
+202,144,Calaveras
+203,145,Lake
+204,146,Lake
+205,147,San Bernardino
+206,148,Sonoma
+207,149,Solano
+208,150,Lake
+209,151,Colusa
+210,152,Shasta
+211,153,San Diego
+212,154,Lake
+213,155,Riverside
+214,156,Lake
+215,157,Mendocino
+216,158,Riverside
+217,159,Madera
+218,160,Humboldt
+219,161,Riverside
+220,162,El Dorado
+221,163,Siskiyou
+222,164,Shasta
+223,165,Siskiyou
+224,166,Siskiyou
+225,167,Shasta
+226,168,San Diego
+227,169,Madera
+228,170,Modoc
+229,171,Shasta
+230,172,Mendocino
+231,173,Yolo
+232,174,Shasta
+233,175,Siskiyou
+234,176,San Diego
+235,177,Monterey
+236,178,Mariposa
+237,179,Mariposa
+238,180,Napa
+239,181,Lake
+240,182,Amador
+241,183,El Dorado
+242,184,Kern
+243,185,Kern
+244,186,San Bernardino
+245,187,San Diego
+246,188,Los Angeles
+247,189,Kern
+248,190,Modoc
+249,191,San Diego
+250,192,Modoc
+251,193,San Diego
+252,194,Shasta
+253,195,Mariposa
+254,196,Orange
+255,197,Tehama
+256,198,Mariposa
+257,199,Santa Barbara
+258,200,Madera
+259,201,San Diego
+260,202,Trinity
+261,203,Siskiyou
+262,204,Tuolumne
+263,205,Placer
+264,206,Mendocino
+265,207,Monterey
+266,208,Butte
+267,209,San Diego
+268,210,Riverside
+269,211,Humboldt
+270,212,Madera
+271,213,Mariposa
+272,214,Mariposa
+273,215,Merced
+274,216,Los Angeles
+275,217,Tuolumne
+276,218,Nevada
+277,219,Tehama
+278,220,San Diego
+279,221,Humboldt
+280,222,Los Angeles
+281,223,Lake
+282,224,Shasta
+283,225,Mariposa
+284,226,Santa Clara
+285,227,San Diego
+286,228,Calaveras
+287,229,Placer
+288,230,Inyo
+289,231,Fresno
+290,232,San Diego
+291,233,Modoc
+292,234,Lake
+293,235,Riverside
+294,236,El Dorado
+295,237,Mariposa
+296,238,Calaveras
+297,239,Nevada
+298,240,Santa Clara
+299,241,Contra Costa
+300,242,Mariposa
+301,243,Riverside
+302,244,Shasta
+303,245,Monterey
+304,246,Butte
+305,247,Tuolumne
+306,248,Kern
+307,249,Solano
+308,250,Inyo
+309,251,Mendocino
+310,252,Butte
+311,253,Riverside
+312,254,San Diego
+313,255,Shasta
+314,256,San Bernardino
+315,257,San Luis Obispo
+316,258,Fresno
+317,259,Nevada
+318,260,Humboldt
+319,261,Stanislaus
+320,262,Riverside
+321,263,Siskiyou
+322,264,El Dorado
+323,265,San Diego
+324,266,Napa
+325,267,Ventura
+326,268,Shasta
+327,269,Fresno
+328,270,El Dorado
+329,271,San Diego
+330,272,Humboldt
+331,273,Trinity
+332,274,Placer
+333,275,Riverside
+334,276,Madera
+335,277,Napa
+336,278,Siskiyou
+337,279,Fresno
+338,280,Trinity
+339,281,Lake
+340,282,Trinity
+341,283,San Bernardino
+342,284,Del Norte
+343,285,Trinity
+344,286,Lake
+345,287,Napa
+346,288,Lassen
+347,289,Del Norte
+348,290,Inyo
+349,291,Mono
+350,292,Tulare
+351,293,Madera
+352,294,Humboldt
+353,295,Modoc
+354,296,San Bernardino
+355,297,Mono
+356,298,Alameda
+357,299,San Luis Obispo
+358,300,Nevada
+359,301,San Diego
+360,302,San Luis Obispo
+361,303,Trinity
+362,304,Merced
+363,305,Merced
+364,306,Monterey
+365,307,Riverside
+366,308,Butte
+367,309,Madera
+368,310,Butte
+369,311,Lake
+370,312,San Benito
+371,313,Riverside
+372,314,Mono
+373,315,Madera
+374,316,Tulare
+375,317,Mariposa
+376,318,Los Angeles
+377,319,Butte
+378,320,Los Angeles
+379,321,Amador
+380,322,Los Angeles
+381,323,Alameda
+382,324,Ventura
+383,325,Merced
+384,326,Alameda
+385,327,Mendocino
+386,328,Santa Clara
+387,329,Lake
+388,330,Orange
+389,331,Shasta
+390,332,Santa Barbara
+391,333,Tuolumne
+392,334,Los Angeles
+393,335,Siskiyou
+394,336,Contra Costa
+395,337,Ventura
+396,338,Siskiyou
+397,339,San Diego
+398,340,Fresno
+399,341,Tehama
+400,342,Kern
+401,343,San Diego
+402,344,Ventura
+403,345,Humboldt
+404,346,Yuba
+405,347,Solano
+406,348,Riverside
+407,349,Humboldt
+408,350,Plumas
+409,351,Madera
+410,352,Trinity
+411,353,San Joaquin
+412,354,Modoc
+413,355,Calaveras
+414,356,Tuolumne
+415,357,Lassen
+416,358,Sacramento
+417,359,Tehama
+418,360,Placer
+419,361,Shasta
+420,362,Tuolumne
+421,363,Butte
+422,364,San Bernardino
+423,365,Monterey
+424,366,San Luis Obispo
+425,367,Shasta
+426,368,Tulare
+427,369,San Diego
+428,370,Riverside
+429,371,Modoc
+430,372,Shasta
+431,373,Shasta
+432,374,El Dorado
+433,375,Butte
+434,376,Butte
+435,377,Siskiyou
+436,378,Kern
+437,379,San Bernardino
+438,380,Fresno
+439,381,Lassen
+440,382,Riverside
+441,383,Mariposa
+442,384,Amador
+443,385,Shasta
+444,386,Siskiyou
+445,387,San Bernardino
+446,388,San Diego
+447,389,Tehama
+448,390,San Bernardino
+449,391,Alameda
+450,392,Santa Barbara
+451,393,Ventura
+452,394,Mendocino
+453,395,Kern
+454,396,Alameda
+455,397,Fresno
+456,398,Modoc
+457,399,Santa Clara
+458,400,Lassen
+459,401,Stanislaus
+460,402,Solano
+461,403,Napa
+462,404,Napa
+463,405,Trinity
+464,406,El Dorado
+465,407,Mendocino
+466,408,Nevada
+467,409,Lassen
+468,410,Yuba
+469,411,Ventura
+470,412,Placer
+471,413,San Diego
+472,414,San Benito
+473,415,San Diego
+474,416,El Dorado
+475,417,Mariposa
+476,418,Lake
+477,419,Riverside
+478,420,Siskiyou
+479,421,Mendocino
+480,422,Lake
+481,423,Santa Barbara
+482,424,Riverside
+483,425,Humboldt
+484,426,Napa
+485,427,Shasta
+486,428,Humboldt
+487,429,Trinity
+488,430,Alpine
+489,431,Monterey
+490,432,Kern
+491,433,San Luis Obispo
+492,434,San Bernardino
+493,435,Siskiyou
+494,436,Santa Barbara
+495,437,Kern
+496,438,Santa Barbara
+497,439,San Bernardino
+498,440,San Diego
+499,441,Santa Barbara
+500,442,Fresno
+501,443,Yolo
+502,444,El Dorado
+503,445,Placer
+504,446,Inyo
+505,447,Los Angeles
+506,448,Los Angeles
+507,449,Santa Clara
+508,450,Tulare
+509,451,Lake
+510,452,Monterey
+511,453,San Luis Obispo
+512,454,Fresno
+513,455,Siskiyou
+514,456,Mono
+515,457,Modoc
+516,458,Lassen
+517,459,Monterey
+518,460,Ventura
+519,461,Fresno
+520,462,Fresno
+521,463,Kern
+522,464,Sonoma
+523,465,Riverside
+524,466,Merced
+525,467,San Diego
+526,468,Los Angeles
+527,469,Tuolumne
+528,470,Butte
+529,471,Siskiyou
+530,472,Mono
+531,473,Humboldt
+532,474,Kern
+533,475,Butte
+534,476,Kern
+535,477,Tehama
+536,478,Calaveras
+537,479,Shasta
+538,480,Yuba
+539,481,Tulare
+540,482,Modoc
+541,483,Amador
+542,484,Tehama
+543,485,Calaveras
+544,486,Calaveras
+545,487,Kern
+546,488,Kern
+547,489,Sutter
+548,490,Fresno
+549,491,Yolo
+550,492,Plumas
+551,493,San Benito
+552,494,Kern
+553,495,Santa Barbara
+554,496,Lake
+555,497,Alameda
+556,498,Amador
+557,499,Fresno
+558,500,El Dorado
+559,501,Riverside
+560,502,Placer
+561,503,Fresno
+562,504,Los Angeles
+563,505,Fresno
+564,506,Del Norte
+565,507,Orange
+566,508,San Luis Obispo
+567,509,San Joaquin
+568,510,Fresno
+569,511,Stanislaus
+570,512,Riverside
+571,513,Kern
+572,514,Fresno
+573,515,Butte
+574,516,Fresno
+575,517,Mono
+576,518,Stanislaus
+577,519,Santa Clara
+578,520,Butte
+579,521,Madera
+580,522,Shasta
+581,523,Santa Clara
+582,524,Kern
+583,525,Stanislaus
+584,526,Monterey
+585,527,San Diego
+586,528,San Benito
+587,529,Butte
+588,530,Butte
+589,531,Tehama
+590,532,Placer
+591,533,Sacramento
+592,534,San Luis Obispo
+593,535,Madera
+594,536,Tuolumne
+595,537,Yolo
+596,538,Calaveras
+597,539,San Benito
+598,540,Tehama
+599,541,Madera
+600,542,Tehama
+601,543,Ventura
+602,544,Shasta
+603,545,Fresno
+604,546,Monterey
+605,547,San Diego
+606,548,Lake
+607,549,Napa
+608,550,Kern
+609,551,Solano
+610,552,Calaveras
+611,553,Siskiyou
+612,554,Monterey
+613,555,Mendocino
+614,556,San Bernardino
+615,557,El Dorado
+616,558,Ventura
+617,559,Butte
+618,560,Nevada
+619,561,Orange
+620,562,Amador
+621,563,Lake
+622,564,Ventura
+623,565,Tehama
+624,566,Kern
+625,567,Lassen
+626,568,Sacramento
+627,569,Riverside
+628,570,Contra Costa
+629,571,Nevada
+630,572,Madera
+631,573,Mendocino
+632,574,Lake
+633,575,San Diego
+634,576,Shasta
+635,577,Butte
+636,578,Calaveras
+637,579,Calaveras
+638,580,Siskiyou
+639,581,Tuolumne
+640,582,Sacramento
+641,583,Butte
+642,584,Inyo
+643,585,San Benito
+644,586,Butte
+645,587,Merced
+646,588,San Diego
+647,589,San Diego
+648,590,Amador
+649,591,Siskiyou
+650,592,Santa Clara
+651,593,Santa Clara
+652,594,El Dorado
+653,595,Lake
+654,596,El Dorado
+655,597,Monterey
+656,598,Shasta
+657,599,Humboldt
+658,600,Siskiyou
+659,601,Humboldt
+660,602,San Bernardino
+661,603,Lake
+662,604,Ventura
+663,605,Amador
+664,606,Ventura
+665,607,Tehama
+666,608,Shasta
+667,609,Tulare
+668,610,Alpine
+669,611,Los Angeles
+670,612,San Luis Obispo
+671,613,Los Angeles
+672,614,Tulare
+673,615,Los Angeles
+674,616,Santa Barbara
+675,617,Ventura
+676,618,Lassen
+677,619,Modoc
+678,620,Mariposa
+679,621,Siskiyou
+680,622,Napa
+681,623,Sonoma
+682,624,Napa
+683,625,Solano
+684,626,Kings
+685,627,Siskiyou
+686,628,Napa
+687,629,Sonoma
+688,630,Tulare
+689,631,Mendocino
+690,632,San Luis Obispo
+691,633,Siskiyou
+692,634,Trinity
+693,635,Tulare
+694,636,Lassen
+695,637,Santa Barbara
+696,638,Sonoma
+697,639,Tulare
+698,640,Los Angeles
+699,641,Trinity
+700,642,Madera
+701,643,Fresno
+702,644,Yuba
+703,645,Orange
+704,646,Mono
+705,647,Butte
+706,648,Mariposa
+707,649,Modoc
+708,650,Los Angeles
+709,651,Mariposa
+710,652,Riverside
+711,653,Butte
+712,654,Los Angeles
+713,655,Lassen
+714,656,Butte
+715,657,Fresno
+716,658,Stanislaus
+717,659,Trinity
+718,660,Plumas
+719,661,San Diego
+720,662,Butte
+721,663,Riverside
+722,664,Siskiyou
+723,665,Kern
+724,666,Orange
+725,667,Plumas
+726,668,Kings
+727,669,Tulare
+728,670,Tulare
+729,671,Yolo
+730,672,Lake
+731,673,San Diego
+732,674,Sonoma
+733,675,Monterey
+734,676,San Luis Obispo
+735,677,Merced
+736,678,Stanislaus
+737,679,Sonoma
+738,680,Fresno
+739,681,Kern
+740,682,San Luis Obispo
+741,683,Fresno
+742,684,Kern
+743,685,San Bernardino
+744,686,Madera
+745,687,Kern
+746,688,Riverside
+747,689,Kern
+748,690,Sacramento
+749,691,Kern
+750,692,San Diego
+751,693,Kern
+752,694,Riverside
+753,695,Madera
+754,696,Plumas
+755,697,San Diego
+756,698,Shasta
+757,699,Fresno
+758,700,Mendocino
+759,701,Yuba
+760,702,Riverside
+761,703,Lassen
+762,704,Nevada
+763,705,Los Angeles
+764,706,San Luis Obispo
+765,707,Los Angeles
+766,708,Sierra
+767,709,Tuolumne
+768,710,Mariposa
+769,711,San Bernardino
+770,712,Mariposa
+771,713,Modoc
+772,714,Riverside
+773,715,Lassen
+774,716,Kern
+775,717,San Diego
+776,718,Siskiyou
+777,719,San Luis Obispo
+778,720,San Bernardino
+779,721,Fresno
+780,722,Santa Barbara
+781,723,Madera
+782,724,El Dorado
+783,725,Los Angeles
+784,726,Tulare
+785,727,Modoc
+786,728,San Diego
+787,729,Fresno
+788,730,Nevada
+789,731,Santa Cruz
+790,732,Modoc
+791,733,Mono
+792,734,Contra Costa
+793,735,Fresno
+794,736,San Luis Obispo
+795,737,Tulare
+796,738,Kern
+797,739,San Bernardino
+798,740,Del Norte
+799,741,Riverside
+800,742,Kern
+801,743,San Bernardino
+802,744,San Diego
+803,745,San Luis Obispo
+804,746,Fresno
+805,747,El Dorado
+806,748,Contra Costa
+807,749,Mariposa
+808,750,San Luis Obispo
+809,751,San Luis Obispo
+810,752,Kern
+811,753,Riverside
+812,754,Lake
+813,755,Alameda
+814,756,San Diego
+815,757,Riverside
+816,758,Tehama
+817,759,Santa Barbara
+818,760,Plumas
+819,761,Fresno
+820,762,Kern
+821,763,Kern
+822,764,Shasta
+823,765,San Bernardino
+824,766,Riverside
+825,767,Sierra
+826,768,Butte
+827,769,Lassen
+828,770,Madera
+829,771,Alameda
+830,772,Siskiyou
+831,773,Riverside
+832,774,Butte
+833,775,San Luis Obispo
+834,776,San Luis Obispo
+835,777,Madera
+836,778,San Bernardino
+837,779,Trinity
+838,780,Mendocino
+839,781,Butte
+840,782,El Dorado
+841,783,El Dorado
+842,784,Los Angeles
+843,785,Tulare
+844,786,Butte
+845,787,Calaveras
+846,788,San Diego
+847,789,San Luis Obispo
+848,790,Shasta
+849,791,Fresno
+850,792,Mariposa
+851,793,Tuolumne
+852,794,Riverside
+853,795,San Luis Obispo
+854,796,Riverside
+855,797,Calaveras
+856,798,Alameda
+857,799,Napa
+858,800,Fresno
+859,801,Butte
+860,802,San Luis Obispo
+861,803,Riverside
+862,804,Butte
+863,805,Fresno
+864,806,Santa Clara
+865,807,San Diego
+866,808,Sonoma
+867,809,Lake
+868,810,Solano
+869,811,Santa Clara
+870,812,Fresno
+871,813,Santa Clara
+872,814,San Bernardino
+873,815,San Bernardino
+874,816,Riverside
+875,817,Fresno
+876,818,Butte
+877,819,Madera
+878,820,Lake
+879,821,Ventura
+880,822,Riverside
+881,823,Humboldt
+882,824,San Bernardino
+883,825,Santa Clara
+884,826,Monterey
+885,827,San Diego
+886,828,El Dorado
+887,829,Plumas
+888,830,Tulare
+889,831,Santa Clara
+890,832,Tehama
+891,833,Nevada
+892,834,Fresno
+893,835,San Luis Obispo
+894,836,El Dorado
+895,837,San Bernardino
+896,838,San Luis Obispo
+897,839,Riverside
+898,840,San Luis Obispo
+899,841,Colusa
+900,842,Santa Clara
+901,843,Fresno
+902,844,Fresno
+903,845,Sacramento
+904,846,Lassen
+905,847,Stanislaus
+906,848,Riverside
+907,849,Mariposa
+908,850,San Diego
+909,851,Lake
+910,852,Stanislaus
+911,853,Tehama
+912,854,Tulare
+913,855,Calaveras
+914,856,Fresno
+915,857,Lake
+916,858,Tulare
+917,859,San Luis Obispo
+918,860,Tehama
+919,861,Fresno
+920,862,Siskiyou
+921,863,Solano
+922,864,Siskiyou
+923,865,Los Angeles
+924,866,Siskiyou
+925,867,Siskiyou
+926,868,Santa Clara
+927,869,Santa Clara
+928,870,Kern
+929,871,Riverside
+930,872,Los Angeles
+931,873,San Mateo
+932,874,Kern
+933,875,Santa Barbara
+934,876,Yuba
+935,877,Ventura
+936,878,Riverside
+937,879,San Diego
+938,880,Madera
+939,881,Riverside
+940,882,San Benito
+941,883,San Luis Obispo
+942,884,Riverside
+943,885,San Bernardino
+944,886,Siskiyou
+945,887,Riverside
+946,888,San Luis Obispo
+947,889,Shasta
+948,890,Alameda
+949,891,Tehama
+950,892,Monterey
+951,893,Monterey
+952,894,Tehama
+953,895,Modoc
+954,896,Siskiyou
+955,897,Los Angeles
+956,898,Kern
+957,899,Riverside
+958,900,Riverside
+959,901,San Bernardino
+960,902,Shasta
+961,903,Kern
+962,904,Del Norte
+963,905,Humboldt
+964,906,Tehama
+965,907,Lake
+966,908,Monterey
+967,909,Tuolumne
+968,910,Yuba
+969,911,Solano
+970,912,Marin
+971,913,Tuolumne
+972,914,Shasta
+973,915,Mariposa
+974,916,San Diego
+975,917,Riverside
+976,918,Marin
+977,919,Riverside
+978,920,Sacramento
+979,921,Kern
+980,922,Riverside
+981,923,San Bernardino
+982,924,Riverside
+983,925,Humboldt
+984,926,San Benito
+985,927,Riverside
+986,928,Riverside
+987,929,Kern
+988,930,Trinity
+989,931,Trinity
+990,932,Riverside
+991,933,Monterey
+992,934,Monterey
+993,935,Monterey
+994,936,Fresno
+995,937,Kern
+996,938,Los Angeles
+997,939,Humboldt
+998,940,Riverside
+999,941,El Dorado
+1000,942,Tehama
+1001,943,Butte
+1002,944,Modoc
+1003,945,Del Norte
+1004,946,Riverside
+1005,947,Modoc
+1006,948,Riverside
+1007,949,Yuba
+1008,950,Riverside
+1009,951,Riverside
+1010,952,San Diego
+1011,953,San Luis Obispo
+1012,954,San Diego
+1013,955,Shasta
+1014,956,San Diego
+1015,957,Madera
+1016,958,Los Angeles
+1017,959,San Diego
+1018,960,Riverside
+1019,961,Alameda
+1020,962,Calaveras
+1021,963,Napa
+1022,964,San Luis Obispo
+1023,965,Lake
+1024,966,Tulare
+1025,967,Butte
+1026,968,Shasta
+1027,969,San Benito
+1028,970,Humboldt
+1029,971,Sonoma
+1030,972,Tehama
+1031,973,Tuolumne
+1032,974,San Bernardino
+1033,975,Mendocino
+1034,976,Riverside
+1035,977,Contra Costa
+1036,978,Kings
+1037,979,Monterey
+1038,980,Riverside
+1039,981,Nevada
+1040,982,Riverside
+1041,983,Humboldt
+1042,984,Stanislaus
+1043,985,Siskiyou
+1044,986,Kern
+1045,987,Sonoma
+1046,988,Butte
+1047,989,Fresno
+1048,990,Monterey
+1049,991,Mariposa
+1050,992,Shasta
+1051,993,Shasta
+1052,994,San Luis Obispo
+1053,995,Monterey
+1054,996,Riverside
+1055,997,Kern
+1056,998,San Bernardino
+1057,999,Fresno
+1058,1000,Tehama
+1059,1001,Nevada
+1060,1002,Modoc
+1061,1003,Monterey
+1062,1004,Calaveras
+1063,1005,Riverside
+1064,1006,Santa Barbara
+1065,1007,Santa Barbara
+1066,1008,Butte
+1067,1009,Monterey
+1068,1010,Riverside
+1069,1011,Stanislaus
+1070,1012,El Dorado
+1071,1013,El Dorado
+1072,1014,San Bernardino
+1073,1015,Butte
+1074,1016,San Diego
+1075,1017,San Luis Obispo
+1076,1018,Riverside
+1077,1019,Merced
+1078,1020,Sonoma
+1079,1021,Riverside
+1080,1022,Tehama
+1081,1023,Mariposa
+1082,1024,Fresno
+1083,1025,Amador
+1084,1026,Los Angeles
+1085,1027,Nevada
+1086,1028,Shasta
+1087,1029,Riverside
+1088,1030,Butte
+1089,1031,Riverside
+1090,1032,Nevada
+1091,1033,Riverside
+1092,1034,Riverside
+1093,1035,Kern
+1094,1036,Riverside
+1095,1037,Yuba
+1096,1038,Kern
+1097,1039,Riverside
+1098,1040,Monterey
+1099,1041,Sonoma
+1100,1042,Napa
+1101,1043,Mariposa
+1102,1044,Siskiyou
+1103,1045,Modoc
+1104,1046,Glenn
+1105,1047,Lassen
+1106,1048,Siskiyou
+1107,1049,San Diego
+1108,1050,Siskiyou
+1109,1051,Tulare
+1110,1052,San Luis Obispo
+1111,1053,Butte
+1112,1054,Colusa
+1113,1055,Glenn
+1114,1056,Lake
+1115,1057,Mendocino
+1116,1058,Shasta
+1117,1059,Trinity
+1118,1060,Butte
+1119,1061,Los Angeles
+1120,1062,Ventura
+1121,1063,Mariposa
+1122,1064,Napa
+1123,1065,Yolo
+1124,1066,Shasta
+1125,1067,Trinity
+1126,1068,Colusa
+1127,1069,Lake
+1128,1070,Mendocino
+1129,1071,Shasta
+1130,1072,Modoc
+1131,1073,Siskiyou
+1132,1074,Tuolumne
+1133,1075,Orange
+1134,1076,Lassen
+1135,1077,Lake
+1136,1078,Riverside
+1137,1079,San Joaquin
+1138,1080,Mono
+1139,1081,Merced
+1140,1082,Ventura
+1141,1083,Solano
+1142,1084,Madera
+1143,1085,Tehama
+1144,1086,Tehama
+1145,1087,Humboldt
+1146,1088,Los Angeles
+1147,1089,Kings
+1148,1090,Tehama
+1149,1091,Kern
+1150,1092,Inyo
+1151,1093,Napa
+1152,1094,Glenn
+1153,1095,Monterey
+1154,1096,Solano
+1155,1097,Modoc
+1156,1098,Inyo
+1157,1099,Shasta
+1158,1100,Merced
+1159,1101,Trinity
+1160,1102,Shasta
+1161,1103,Solano
+1162,1104,San Luis Obispo
+1163,1105,Los Angeles
+1164,1106,San Bernardino
+1165,1107,San Benito
+1166,1108,Inyo
+1167,1109,Riverside
+1168,1110,Sutter
+1169,1111,Placer
+1170,1112,Santa Barbara
+1171,1113,Kern
+1172,1114,Mendocino
+1173,1115,Butte
+1174,1116,Tehama
+1175,1117,Amador
+1176,1118,Yolo
+1177,1119,Placer
+1178,1120,Tulare
+1179,1121,Monterey
+1180,1122,Lassen
+1181,1123,Alameda
+1182,1124,Tuolumne
+1183,1125,Butte
+1184,1126,San Benito
+1185,1127,San Diego
+1186,1128,Alameda
+1187,1129,Lassen
+1188,1130,Monterey
+1189,1131,Monterey
+1190,1132,Kern
+1191,1133,San Diego
+1192,1134,Madera
+1193,1135,Butte
+1194,1136,Inyo
+1195,1137,Shasta
+1196,1138,Santa Clara
+1197,1139,El Dorado
+1198,1140,Trinity
+1199,1141,Madera
+1200,1142,San Diego
+1201,1143,Kern
+1202,1144,Calaveras
+1203,1145,Madera
+1204,1146,Riverside
+1205,1147,San Benito
+1206,1148,Contra Costa
+1207,1149,Tehama
+1208,1150,San Diego
+1209,1151,Tehama
+1210,1152,San Luis Obispo
+1211,1153,Santa Barbara
+1212,1154,San Diego
+1213,1155,Contra Costa
+1214,1156,Siskiyou
+1215,1157,Siskiyou
+1216,1158,San Benito
+1217,1159,San Diego
+1218,1160,Riverside
+1219,1161,Kern
+1220,1162,Merced
+1221,1163,Butte
+1222,1164,Ventura
+1223,1165,Merced
+1224,1166,Los Angeles
+1225,1167,Orange
+1226,1168,Santa Barbara
+1227,1169,Tehama
+1228,1170,Monterey
+1229,1171,Lassen
+1230,1172,Los Angeles
+1231,1173,Tuolumne
+1232,1174,Solano
+1233,1175,Shasta
+1234,1176,Orange
+1235,1177,Riverside
+1236,1178,Marin
+1237,1179,Ventura
+1238,1180,Monterey
+1239,1181,El Dorado
+1240,1182,San Bernardino
+1241,1183,Calaveras
+1242,1184,Napa
+1243,1185,Los Angeles
+1244,1186,Glenn
+1245,1187,Siskiyou
+1246,1188,San Bernardino
+1247,1189,Tulare
+1248,1190,Plumas
+1249,1191,San Benito
+1250,1192,Santa Clara
+1251,1193,Mariposa
+1252,1194,Kern
+1253,1195,Santa Barbara
+1254,1196,Santa Barbara
+1255,1197,Fresno
+1256,1198,Mendocino
+1257,1199,Lake
+1258,1200,Tehama
+1259,1201,San Diego
+1260,1202,Tulare
+1261,1203,San Bernardino
+1262,1204,San Luis Obispo
+1263,1205,Monterey
+1264,1206,Kern
+1265,1207,Mendocino
+1266,1208,Lassen
+1267,1209,Lassen
+1268,1210,Madera
+1269,1211,Merced
+1270,1212,San Luis Obispo
+1271,1213,Lake
+1272,1214,Calaveras
+1273,1215,Santa Barbara
+1274,1216,Shasta
+1275,1217,Fresno
+1276,1218,Colusa
+1277,1219,Glenn
+1278,1220,Riverside
+1279,1221,Santa Clara
+1280,1222,Santa Clara
+1281,1223,Tehama
+1282,1224,Riverside
+1283,1225,Merced
+1284,1226,El Dorado
+1285,1227,Mendocino
+1286,1228,El Dorado
+1287,1229,San Benito
+1288,1230,Santa Clara
+1289,1231,Shasta
+1290,1232,Riverside
+1291,1233,Siskiyou
+1292,1234,Stanislaus
+1293,1235,Kern
+1294,1236,Los Angeles
+1295,1237,San Joaquin
+1296,1238,Tehama
+1297,1239,Lake
+1298,1240,Madera
+1299,1241,San Luis Obispo
+1300,1242,San Luis Obispo
+1301,1243,Santa Barbara
+1302,1244,San Diego
+1303,1245,San Luis Obispo
+1304,1246,Lassen
+1305,1247,Contra Costa
+1306,1248,Madera
+1307,1249,San Bernardino
+1308,1250,Lassen
+1309,1251,Mariposa
+1310,1252,Modoc
+1311,1253,San Luis Obispo
+1312,1254,Shasta
+1313,1255,Santa Clara
+1314,1256,Lake
+1315,1257,Tehama
+1316,1258,Monterey
+1317,1259,Alameda
+1318,1260,Contra Costa
+1319,1261,Marin
+1320,1262,Butte
+1321,1263,Riverside
+1322,1264,Mariposa
+1323,1265,Contra Costa
+1324,1266,Butte
+1325,1267,San Benito
+1326,1268,Shasta
+1327,1269,San Diego
+1328,1270,San Luis Obispo
+1329,1271,Siskiyou
+1330,1272,Lake
+1331,1273,Riverside
+1332,1274,Mendocino
+1333,1275,Riverside
+1334,1276,Shasta
+1335,1277,San Benito
+1336,1278,Kern
+1337,1279,Alameda
+1338,1280,Tulare
+1339,1281,Butte
+1340,1282,Tehama
+1341,1283,San Bernardino
+1342,1284,Tulare
+1343,1285,Fresno
+1344,1286,Riverside
+1345,1287,Lassen
+1346,1288,Lake
+1347,1289,Shasta
+1348,1290,Santa Clara
+1349,1291,Contra Costa
+1350,1292,Alameda
+1351,1293,Riverside
+1352,1294,San Luis Obispo
+1353,1295,Sacramento
+1354,1296,Fresno
+1355,1297,San Diego
+1356,1298,Siskiyou
+1357,1299,Tulare
+1358,1300,Riverside
+1359,1301,Contra Costa
+1360,1302,San Luis Obispo
+1361,1303,Lake
+1362,1304,Riverside
+1363,1305,Contra Costa
+1364,1306,Tehama
+1365,1307,Mariposa
+1366,1308,Riverside
+1367,1309,Contra Costa
+1368,1310,Alameda
+1369,1311,Santa Clara
+1370,1312,Alameda
+1371,1313,Riverside
+1372,1314,Butte
+1373,1315,Los Angeles
+1374,1316,Plumas
+1375,1317,San Diego
+1376,1318,Riverside
+1377,1319,Santa Cruz
+1378,1320,Amador
+1379,1321,Riverside
+1380,1322,Nevada
+1381,1323,Humboldt
+1382,1324,Santa Clara
+1383,1325,Siskiyou
+1384,1326,Modoc
+1385,1327,Riverside
+1386,1328,Riverside
+1387,1329,San Diego
+1388,1330,San Luis Obispo
+1389,1331,Lassen
+1390,1332,Yolo
+1391,1333,Shasta
+1392,1334,San Diego
+1393,1335,Fresno
+1394,1336,Shasta
+1395,1337,El Dorado
+1396,1338,San Bernardino
+1397,1339,Madera
+1398,1340,Marin
+1399,1341,San Diego
+1400,1342,Siskiyou
+1401,1343,San Luis Obispo
+1402,1344,Napa
+1403,1345,Alameda
+1404,1346,San Diego
+1405,1347,Butte
+1406,1348,Madera
+1407,1349,Riverside
+1408,1350,Shasta
+1409,1351,Santa Cruz
+1410,1352,Humboldt
+1411,1353,Butte
+1412,1354,Riverside
+1413,1355,Napa
+1414,1356,Siskiyou
+1415,1357,San Diego
+1416,1358,Butte
+1417,1359,San Luis Obispo
+1418,1360,Monterey
+1419,1361,Sonoma
+1420,1362,San Diego
+1421,1363,Tehama
+1422,1364,Riverside
+1423,1365,Riverside
+1424,1366,Butte
+1425,1367,Humboldt
+1426,1368,Santa Barbara
+1427,1369,Ventura
+1428,1370,Ventura
+1429,1371,Mariposa
+1430,1372,Riverside
+1431,1373,Tehama
+1432,1374,Riverside
+1433,1375,Placer
+1434,1376,Monterey
+1435,1377,San Luis Obispo
+1436,1378,Mariposa
+1437,1379,Fresno
+1438,1380,Lassen
+1439,1381,Riverside
+1440,1382,Contra Costa
+1441,1383,San Diego
+1442,1384,Alameda
+1443,1385,Stanislaus
+1444,1386,Shasta
+1445,1387,Calaveras
+1446,1388,San Bernardino
+1447,1389,San Diego
+1448,1390,El Dorado
+1449,1391,Alameda
+1450,1392,Contra Costa
+1451,1393,Riverside
+1452,1394,Mendocino
+1453,1395,Santa Cruz
+1454,1396,Sonoma
+1455,1397,Plumas
+1456,1398,Modoc
+1457,1399,Inyo
+1458,1400,Ventura
+1459,1401,Tehama
+1460,1402,Los Angeles
+1461,1403,Modoc
+1462,1404,Mariposa
+1463,1405,Tehama
+1464,1406,Mono
+1465,1407,Los Angeles
+1466,1408,El Dorado
+1467,1409,Lassen
+1468,1410,Santa Barbara
+1469,1411,Monterey
+1470,1412,Tehama
+1471,1413,Yolo
+1472,1414,Kern
+1473,1415,Lassen
+1474,1416,Stanislaus
+1475,1417,Inyo
+1476,1418,Riverside
+1477,1419,Siskiyou
+1478,1420,San Luis Obispo
+1479,1421,Mexico
+1480,1422,Sutter
+1481,1423,State of Oregon
+1482,1424,State of Nevada
+1483,1425,San Luis Obispo
+1484,1426,Lassen
+1485,1427,San Luis Obispo
+1486,1428,San Luis Obispo
+1487,1429,Contra Costa
+1488,1430,Tulare
+1489,1431,Los Angeles
+1490,1432,Mendocino
+1491,1433,Placer
+1492,1434,Shasta
+1493,1435,Stanislaus
+1494,1436,Napa
+1495,1437,Riverside
+1496,1438,Riverside
+1497,1439,Butte
+1498,1440,San Diego
+1499,1441,Kern
+1500,1442,Mariposa
+1501,1443,Santa Barbara
+1502,1444,Tulare
+1503,1445,Riverside
+1504,1446,Riverside
+1505,1447,Monterey
+1506,1448,Butte
+1507,1449,San Joaquin
+1508,1450,Trinity
+1509,1451,Monterey
+1510,1452,Ventura
+1511,1453,Lassen
+1512,1454,Lassen
+1513,1455,Tulare
+1514,1456,Riverside
+1515,1457,Trinity
+1516,1458,Mariposa
+1517,1459,Alameda
+1518,1460,Siskiyou
+1519,1461,Mendocino
+1520,1462,San Luis Obispo
+1521,1463,Riverside
+1522,1464,Madera
+1523,1465,Merced
+1524,1466,Santa Clara
+1525,1467,Kern
+1526,1468,Siskiyou
+1527,1469,Stanislaus
+1528,1470,San Bernardino
+1529,1471,Contra Costa
+1530,1472,Ventura
+1531,1473,San Diego
+1532,1474,Santa Barbara
+1533,1475,Lassen
+1534,1476,Stanislaus
+1535,1477,Monterey
+1536,1478,Solano
+1537,1479,Kern
+1538,1480,Riverside
+1539,1481,San Benito
+1540,1482,Kings
+1541,1483,Shasta
+1542,1484,Los Angeles
+1543,1485,San Bernardino
+1544,1486,Tulare
+1545,1487,Contra Costa
+1546,1488,San Diego
+1547,1489,Placer
+1548,1490,San Bernardino
+1549,1491,Santa Clara
+1550,1492,Solano
+1551,1493,Alameda
+1552,1494,Lassen
+1553,1495,Ventura
+1554,1496,Lassen
+1555,1497,Mendocino
+1556,1498,Riverside
+1557,1499,Santa Clara
+1558,1500,Modoc
+1559,1501,Fresno
+1560,1502,San Diego
+1561,1503,San Luis Obispo
+1562,1504,Kern
+1563,1505,Los Angeles
+1564,1506,Modoc
+1565,1507,Santa Barbara
+1566,1508,San Diego
+1567,1509,Riverside
+1568,1510,San Diego
+1569,1511,Riverside
+1570,1512,San Luis Obispo
+1571,1513,Riverside
+1572,1514,Ventura
+1573,1515,Siskiyou
+1574,1516,San Joaquin
+1575,1517,Shasta
+1576,1518,El Dorado
+1577,1519,Sacramento
+1578,1520,Tuolumne
+1579,1521,Siskiyou
+1580,1522,Solano
+1581,1523,San Bernardino
+1582,1524,Riverside
+1583,1525,Butte
+1584,1526,Riverside
+1585,1527,San Diego
+1586,1528,Santa Clara
+1587,1529,Riverside
+1588,1530,Yuba
+1589,1531,Yuba
+1590,1532,Lake
+1591,1533,Santa Clara
+1592,1534,Yuba
+1593,1535,Tehama
+1594,1536,Marin
+1595,1537,Calaveras
+1596,1538,Monterey
+1597,1539,Placer
+1598,1540,Napa
+1599,1541,Glenn
+1600,1542,Tehama
+1601,1543,San Mateo
+1602,1544,Santa Clara
+1603,1545,Butte
+1604,1546,Contra Costa
+1605,1547,Lassen
+1606,1548,Riverside
+1607,1549,Lake
+1608,1550,San Luis Obispo
+1609,1551,San Diego
+1610,1552,San Diego
+1611,1553,Contra Costa
+1612,1554,Sacramento
+1613,1555,Napa
+1614,1556,Butte
+1615,1557,Santa Clara
+1616,1558,Tulare
+1617,1559,Shasta
+1618,1560,Tehama
+1619,1561,Riverside
+1620,1562,San Joaquin
+1621,1563,Monterey
+1622,1564,Los Angeles
+1623,1565,Shasta
+1624,1566,Yuba
+1625,1567,Santa Clara
+1626,1568,El Dorado
+1627,1569,Siskiyou
+1628,1570,Santa Clara
+1629,1571,Riverside
+1630,1572,Riverside
+1631,1573,Yolo
+1632,1574,Tulare
+1633,1575,San Luis Obispo
+1634,1576,Solano
+1635,1577,Shasta
+1636,1578,Shasta
+1637,1579,Alameda
+1638,1580,Riverside
+1639,1581,Humboldt
+1640,1582,Santa Clara
+1641,1583,Kern
+1642,1584,Lake
+1643,1585,San Diego
+1644,1586,Placer
+1645,1587,Riverside
+1646,1588,Lake
+1647,1589,Fresno
+1648,1590,Mexico
+1649,1591,San Diego
+1650,1592,Alameda
+1651,1593,Tulare
+1652,1594,Contra Costa
+1653,1595,Solano
+1654,1596,Contra Costa
+1655,1597,San Diego
+1656,1598,Tuolumne
+1657,1599,Colusa
+1658,1600,Riverside
+1659,1601,Lake
+1660,1602,Riverside
+1661,1603,Riverside
+1662,1604,Riverside
+1663,1605,Riverside
+1664,1606,Alameda
+1665,1607,Stanislaus
+1666,1608,San Benito
+1667,1609,Santa Clara
+1668,1610,Butte
+1669,1611,Siskiyou
+1670,1612,Shasta
+1671,1613,El Dorado
+1672,1614,Siskiyou
+1673,1615,San Bernardino
+1674,1616,San Diego
+1675,1617,El Dorado
+1676,1618,Alameda
+1677,1619,Butte
+1678,1620,San Bernardino
+1679,1621,Tehama
+1680,1622,Stanislaus
+1681,1623,Alameda
+1682,1624,San Diego
+1683,1625,Tehama
+1684,1626,Amador
+1685,1627,Riverside
+1686,1628,Butte
+1687,1629,Siskiyou
+1688,1630,Butte
+1689,1631,Riverside
+1690,1632,Nevada
+1691,1633,Yolo
+1692,1634,San Diego
+1693,1635,Riverside
